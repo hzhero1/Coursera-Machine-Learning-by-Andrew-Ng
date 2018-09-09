@@ -1,0 +1,91 @@
+Suggested courses for you
+
+We thoroughly searched the course catalog and found courses and special courses that fit your interests. Browse the recommended courses below and start learning new things today!
+
+ Mathematics for Machine Learning
+Imperial College London | 3 Door Special Courses
+Start date Apr 30, 2018
+
+ Big Data
+University of California, San Diego | 6 Special Courses
+Start date Apr 30, 2018
+
+ Genomic Data Science
+Johns Hopkins University | 8 Door Special Courses
+Start date May 07, 2018
+
+ Advanced Machine Learning
+National Research University Higher School of Economics | 7 Door Special Courses
+Start date Apr 23, 2018
+
+ Applied Machine Learning in Python
+University of Michigan
+Start date May 07, 2018
+
+ Functional Programming Principles in Scala
+¨¦cole Polytechnique F¨¦d¨¦rale de Lausanne
+Start date Apr 23, 2018
+
+ Python Data Structures
+University of Michigan
+Start date Apr 16, 2018
+
+ Machine Learning: Clustering & Retrieval
+University of Washington
+Start date Apr 23, 2018
+
+ Applied Text Mining in Python
+University of Michigan
+Start date May 07, 2018
+
+ Neural Networks for Machine Learning
+University of Toronto
+Start date May 14, 2018
+
+ Functional Program Design in Scala
+¨¦cole Polytechnique F¨¦d¨¦rale de Lausanne
+Start date Apr 23, 2018
+
+ Probabilistic Graphical Models
+Stanford University | 3 Special Courses
+Start date Apr 23, 2018
+
+ Big Data Analysis with Scala and Spark
+¨¦cole Polytechnique F¨¦d¨¦rale de Lausanne
+Start date May 07, 2018
+
+ Getting and Cleaning Data
+Johns Hopkins University
+Start date Apr 23, 2018
+
+ Machine Learning: Regression
+University of Washington
+Start date Apr 23, 2018
+
+ Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+Deeplearning.ai
+Start date Apr 23, 2018
+
+ Deep Learning
+Deeplearning.ai | 5 Door Special Courses
+Start date Apr 23, 2018
+
+ Convolutional Neural Networks
+Deeplearning.ai
+Start date Apr 23, 2018
+
+ Machine Learning: Classification
+University of Washington
+Start date Apr 23, 2018
+
+ Parallel programming
+¨¦cole Polytechnique F¨¦d¨¦rale de Lausanne
+Start date Apr 23, 2018
+
+ Hadoop Platform and Application Framework
+University of California, San Diego
+Start date Apr 30, 2018
+
+ The Data Scientist¡¯s Toolbox
+Johns Ho
+
